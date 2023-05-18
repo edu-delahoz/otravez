@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppFinalUnisinu</string>
+    <string name="title_campus">Campus</string>
+    <string name="title_noticia">UniHome</string>
+    <string name="title_tutorias">Tutorship</string>
+    <string name="map_content_description">Mapa de la ubicación actual</string>
+    <string name="boton_prueba">Bloque 7</string>
+    <string name="boton_facultad_ingenierias">Botom para ir a la falcultad de ingenieria</string>
+    <string name="boton1">Facultad \nIngenieria</string>
+    <string name="boton2">Facultad \nSalud</string>
+    <string name="boton3">Facultad \nDerecho</string>
+    <string name="usuario">Usuario</string>
+    <string name="info1">info1</string>
+    <string name="botonflotanteamigos">boton amigos</string>
+    <string name="contenedor_de_menu_amigos">menu_amigos_interno</string>
+    <string name="nfacultad_de_ningenierias">\nFACULTAD DE \nINGENIERIAS</string>
+    <string name="nfacultad_de_nsalud">\nFACULTAD DE\nSALUD</string>
+    <string name="nfacultado_de_nderecho">\nFACULTADO DE\nDERECHO</string>
+
+
+</resources>
